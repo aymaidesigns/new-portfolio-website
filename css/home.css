@@ -19,6 +19,11 @@ a:hover{
     color:white;
 }
 
+@font-face {
+    font-family: 'Seconds';
+    src: url(fonts/Seconds.otf);
+    font-style: normal;
+}
 
 
 
